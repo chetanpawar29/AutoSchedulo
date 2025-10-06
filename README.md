@@ -1,5 +1,8 @@
 # Developing a software solution that automates the scheduling of buses, crews and routes ensuring efficient and optimized public transportation operations.
 
+<img width="950" height="725" alt="Assign Unique  Key" src="https://github.com/user-attachments/assets/c60a7f6a-ffd9-4ac5-9f77-9409bc8d8b4d" />
+
+
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/95b53b3d-9fd6-4b15-9d77-098c12da6f7f" />
 
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/2a352e3c-b932-4659-9293-af14340a6800" />
